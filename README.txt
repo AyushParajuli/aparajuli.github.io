@@ -1,2 +1,2 @@
 Personal Portfolio
-link:
+link: https://ayushparajuli.github.io/aparajuli.github.io/
